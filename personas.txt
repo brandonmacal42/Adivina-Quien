@@ -1,0 +1,9 @@
+persona1 genero1 piel1 ojos1 cabello1
+persona2 genero2 piel2 ojos2 cabello2
+persona3 genero3 piel3 ojos3 cabello3
+persona4 genero4 piel4 ojos4 cabello4
+persona5 genero5 piel5 ojos5 cabello5
+persona6 genero6 piel6 ojos6 cabello6
+persona7 genero7 piel7 ojos7 cabello7
+persona8 genero8 piel8 ojos8 cabello8
+persona9 genero9 piel9 ojos9 cabello9

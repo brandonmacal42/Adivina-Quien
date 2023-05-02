@@ -1,0 +1,4 @@
+genero,genero1,genero2,genero3,genero4,genero5,genero6,genero7,genero8,genero9
+la piel,piel1,piel2,piel3,piel4,piel5,piel6,piel7,piel8,piel9
+los ojos,ojos1,ojos2,ojos3,ojos4,ojos5,ojos6,ojos7,ojos8,ojos9
+el cabello,cabello1,cabello2,cabello3,cabello4,cabello5,cabello6,cabello7,cabello8,cabello9
